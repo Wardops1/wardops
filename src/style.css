@@ -217,3 +217,7 @@
   padding-bottom: 500px;
 }
 
+.postwidth {
+  max-width: 415px;
+  max-height: 566px;
+}
